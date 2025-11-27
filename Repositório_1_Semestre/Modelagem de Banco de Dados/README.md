@@ -45,5 +45,3 @@ Casos de uso, exercícios de cardinalidade, especialização e generalização.
 
 ---
 
-## 📌 Observação
-Todos os arquivos foram organizados para facilitar estudos futuros, permitindo revisar os processos de construção de bancos de dados e a evolução do projeto.
