@@ -1,32 +1,47 @@
-# 🔢 Calculadora Científica — Algoritmos e Pensamentos Educacional (A1 Grupo 10)
+# 🧮 Algoritmos e Pensamento Computacional — Projetos e Atividades
 
 ## 📄 Descrição
 
-Esta pasta contém o projeto desenvolvido para a disciplina **Algoritmos e Pensamentos Educacional**, como parte da **Prova A1 – Grupo 10**.  
-O foco deste trabalho é a implementação de uma **Calculadora Científica**, criada para aplicar e reforçar os conceitos de lógica de programação estudados durante o semestre.
+Esta pasta reúne todas as atividades desenvolvidas na disciplina **Algoritmos e Pensamento Computacional**, incluindo exercícios de lógica, estruturas de repetição, vetores, funções e projetos práticos.
 
-O projeto inclui operações matemáticas que vão além da aritmética básica, demonstrando o uso de estruturas condicionais, repetições, modularização por funções e organização lógica do programa.
-
----
-
-## 🛠️ Tecnologias Utilizadas
-
-- **Linguagem de programação do curso** (C)  
-- **Estruturas de controle:** if/else, switch, loops  
-- **Funções/métodos** para modularização das operações  
-- **Git e GitHub** para versionamento e entrega do projeto  
-- **Bibliotecas matemáticas** math.io, stdio.h  
+O destaque da pasta é o projeto **Calculadora Científica**, que utiliza conceitos fundamentais de programação estruturada para implementar operações matemáticas avançadas.
 
 ---
 
-## 🎯 Objetivos do Projeto
+## 🛠️ Tecnologias / Ferramentas Utilizadas
 
-- Desenvolver uma Calculadora Científica funcional como aplicação prática da disciplina.  
-- Reforçar o uso de lógica de programação para resolver problemas matemáticos.  
-- Utilizar funções para modularizar e organizar o código.  
-- Aplicar boas práticas de desenvolvimento, documentação e versionamento.  
-- Entregar um programa claro, organizado e capaz de executar várias operações matemáticas.  
+- Linguagem **C**
+- Compilador GCC / GDB Online
+- IDEs ou editores como VSCode, Dev-C++ ou Code::Blocks
+- Git e GitHub para versionamento
 
 ---
 
+## 🎯 Objetivos da Disciplina
 
+- Desenvolver o raciocínio lógico aplicado à programação  
+- Aprender a estruturar algoritmos eficientes  
+- Utilizar variáveis, funções, vetores, estruturas condicionais e de repetição  
+- Construir programas funcionais utilizando linguagem C  
+- Praticar depuração, testes e boas práticas de código  
+
+---
+
+## 📂 Conteúdos da Pasta
+
+### ✔️ **Calculadora Científica**
+Projeto principal contendo:
+- Operações básicas
+- Fatorial
+- Arranjos e combinações
+- Cálculo de Euler
+- Radiciação e potenciação
+- Histórico de operações
+
+### ✔️ **Listas de Exercícios**
+Atividades de lógica, condicionais, loops e funções.
+
+### ✔️ **Códigos de Teste**
+Arquivos usados para explorar erros, depuração e validação.
+
+---
