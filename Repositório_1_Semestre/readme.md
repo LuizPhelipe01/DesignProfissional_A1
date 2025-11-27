@@ -1,4 +1,4 @@
-# Repositório 1º Semestre — DesignProfissional_A1
+# Repositório 1º Semestre 
 
 Este repositório organiza as atividades e projetos desenvolvidos ao longo do 1º semestre, distribuídos por disciplina. Cada pasta contém os materiais produzidos em aula, incluindo exercícios, documentos, códigos e entregas avaliativas.
 
