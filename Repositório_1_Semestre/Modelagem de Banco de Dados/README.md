@@ -1,4 +1,4 @@
-# 🗂️ Modelagem de Banco de Dados — Projeto Cidade Inteligente Saúde
+# 🗂️ Modelagem de Banco de Dados 
 
 ## 📄 Descrição
 
