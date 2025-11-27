@@ -1,35 +1,46 @@
-# 🌐 Desenvolvimento Front-End Web — Prova A1 Grupo 10
+# 🌐 Desenvolvimento Front-End Web — Atividades e Projetos
 
 ## 📄 Descrição
 
-Esta pasta contém o projeto desenvolvido para a disciplina **Desenvolvimento Front-End Web**, como parte da **Prova A1 – Grupo 10**.  
-O foco do trabalho é criar a interface web de um sistema, aplicando os conceitos fundamentais de estruturação, estilização e interação de páginas web.
-
-Aqui estão organizados os arquivos HTML, CSS, JavaScript e demais elementos visuais que compõem a camada de apresentação do projeto.  
-O desenvolvimento segue boas práticas de criação de páginas responsivas, organizadas e funcionais, utilizando tecnologias essenciais do front-end moderno.
+Esta pasta contém as atividades desenvolvidas na disciplina **Desenvolvimento Front-End Web**, abordando HTML, CSS e JavaScript através de exercícios práticos e pequenos projetos.  
+O foco é o aprendizado da estrutura de páginas, estilização e interatividade baseadas na web.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias / Ferramentas Utilizadas
 
-- **HTML5** — estruturação do conteúdo da página  
-- **CSS3** — estilização, layout e design responsivo
-- **BootStap** - estilização, layout e design responsivo
-- **JavaScript** — comportamento, interatividade e funcionalidades dinâmicas (se aplicável)  
-- **Git e GitHub** — versionamento e organização dos arquivos  
-- **Ferramentas de apoio** como VS Code e Liver Server 
-
----
-
-## 🎯 Objetivos do Projeto
-
-- Desenvolver a interface visual do sistema solicitado na Prova A1 do Grupo 10.  
-- Aplicar conhecimentos de HTML, CSS e JavaScript para criar páginas modernas e bem estruturadas.  
-- Organizar a arquitetura do front-end de forma clara e compreensível.  
-- Praticar responsividade, acessibilidade e boas práticas de desenvolvimento web.  
-- Utilizar Git e GitHub para versionamento e entrega do projeto de forma profissional.  
-- Apresentar um produto visual funcional e coerente com os requisitos da disciplina.
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **BOOTSTRAP**
+- Navegadores (Chrome, Firefox)
+- VSCode ou editores semelhantes
+- Git e GitHub
 
 ---
 
+## 🎯 Objetivos da Disciplina
 
+- Compreender a estrutura básica de uma página web  
+- Desenvolver estilos responsivos utilizando CSS  
+- Criar interatividade com JavaScript  
+- Construir pequenos projetos aplicando boas práticas  
+- Estimular criatividade e organização de códigos front-end  
+
+---
+
+## 📂 Conteúdos da Pasta
+
+### ✔️ **Atividades de Estrutura HTML**
+Construção de páginas simples com elementos semânticos.
+
+### ✔️ **Exercícios de Estilização com CSS**
+Layout, cores, tipografia e responsividade.
+
+### ✔️ **Atividades com JavaScript**
+Manipulação do DOM, eventos e funções básicas.
+
+### ✔️ **Projetos Práticos**
+Pequenos trabalhos aplicando HTML + CSS + JS.
+
+---
