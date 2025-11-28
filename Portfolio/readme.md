@@ -7,7 +7,7 @@ Sou apaixonado por tecnologia e estudo diariamente para evoluir minhas habilidad
 
 ## 🚀 Sobre mim
 
-- 🎮 Gosto de jogar videogame nas horas vagas  
+- 🎮 24 anos  
 - 🎶 Música é minha companheira constante  
 - 💻 Sempre buscando aprender e compartilhar conhecimento  
 
